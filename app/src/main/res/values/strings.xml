@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ResearchProject</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="scan">Scanning..</string>
+    <string name="discoverable">Discover</string>
+    <string name="payer">Pair Devices</string>
+
+
+</resources>
